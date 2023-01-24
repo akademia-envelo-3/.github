@@ -1,6 +1,6 @@
 ## Akademia Envelo vol. 3 👋
 
-1. [Mockowanie bazy danych do testów](../json-server.md)
+1. [Mockowanie bazy danych do testów](https://github.com/akademia-envelo-3/.github/blob/main/json-server.md)
 
 <!--
 
